@@ -6,9 +6,10 @@ Extract the ZIP into your "C:\Program Files (x86)\World of Warcraft\_classic_era
 Make sure your Restedxp Core addon is installed and enabled. Then my Guide grouping should appear in the guide listing.
 
 
-Freezy3 SoD P4 50-57 EXP  
-Freezy3 SoD P4 Important Dungeon/Raid Attunements  
-Freezy3 SoD P4 Blackrock Dungeon Quests  
-Freezy3 SoD P4 Plaguelands Dungeon Quests  
+1. Freezy3 SoD P4 50-57 EXP  
+2. Freezy3 SoD P4 Important Dungeon/Raid Attunements  
+3. Freezy3 SoD P4 Blackrock Dungeon Quests  
+4. Freezy3 SoD P4 Plaguelands Dungeon Quests  
+5. Freezy3's SoD 0.5 Questline  
 
 Will add quests to complete prior to P4 soon
