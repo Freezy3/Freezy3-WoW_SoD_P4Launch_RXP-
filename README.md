@@ -10,6 +10,6 @@ Make sure your Restedxp Core addon is installed and enabled. Then my Guide group
 2. Freezy3 SoD P4 Important Dungeon/Raid Attunements  
 3. Freezy3 SoD P4 Blackrock Dungeon Quests  
 4. Freezy3 SoD P4 Plaguelands Dungeon Quests  
-5. Freezy3's SoD 0.5 Questline  
+5. Freezy3 SoD 0.5 Questline  
 
 Will add quests to complete prior to P4 soon
